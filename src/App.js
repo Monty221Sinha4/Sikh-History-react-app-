@@ -7,8 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={require('./Images/Guru 1.jpg').default} height={200} width={100}
-             <img src={Images} height={200} width={100}
+
         <p>
           Sikh History : Learn about Sikhism here.
         </p>
